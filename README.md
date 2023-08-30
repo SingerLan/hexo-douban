@@ -5,7 +5,8 @@ hexo豆瓣我看过的电影
   ![image](https://github.com/SingerLan/hexo-douban/assets/44799711/3e96a3c9-47fa-434f-aa36-1d2a56b06157)
 #代码截图
   ![image](https://github.com/SingerLan/hexo-douban/assets/44799711/938e6b26-51c6-4bc2-8414-b568d3b9c755)
-
+#效果网址
+  https://singerlan.gitee.io/more/
 #步骤
 
   ## 新建movie.js文件 
